@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856338122157",
+    "project_id": "wowmen-safety",
+    "storage_bucket": "wowmen-safety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856338122157:android:9eedd30c2c5a8850f60d24",
+        "android_client_info": {
+          "package_name": "com.example.liki_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpn8P-shCfG2-EF-GV_EdvV9iILHbf2NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">856338122157</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpn8P-shCfG2-EF-GV_EdvV9iILHbf2NA</string>
+    <string name="google_app_id" translatable="false">1:856338122157:android:9eedd30c2c5a8850f60d24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpn8P-shCfG2-EF-GV_EdvV9iILHbf2NA</string>
+    <string name="google_storage_bucket" translatable="false">wowmen-safety.appspot.com</string>
+    <string name="project_id" translatable="false">wowmen-safety</string>
+</resources>
